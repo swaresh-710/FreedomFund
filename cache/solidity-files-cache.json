@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\sware\\Downloads\\Webdev Projects\\Web3 Project\\thirdweb-contracts\\contracts\\crowdFunding.sol": {
+      "lastModificationDate": 1676541594555,
+      "contentHash": "72389036c85140d26a2c2914ae108a0d",
+      "sourceName": "contracts/crowdFunding.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "crowdFunding"
+      ]
+    }
+  }
+}
